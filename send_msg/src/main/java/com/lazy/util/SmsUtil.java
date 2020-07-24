@@ -15,6 +15,7 @@ import java.util.Map;
 
 @Component
 public class SmsUtil {
+    //测试修改爱
     @Value("${accessKeyId}")
     private String accessKeyId;
     @Value("${accessKeySecret}")
